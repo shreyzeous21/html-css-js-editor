@@ -27,9 +27,9 @@ function App() {
         <div className="app__logo">
           <img src="https://i.imgur.com/vGVAieX.png" alt="logo" />
           <h3>
-            Code
+            Code-with
             <br />
-            Fragment
+            Shrey
           </h3>
         </div>
       </div>
